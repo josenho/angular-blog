@@ -1,10 +1,10 @@
 .container__big-card{
-  border: solid black 2px;
+  border: 2px solid black;
   margin-left: 10px;
   margin-right: 10px;
-  width: 800px;
-  height: 300px;
-  padding: 10px;
+  margin-bottom: 20px;
+  width: 1200px;
+  height: 450px;
 
   display: flex;
   flex-direction: row;
@@ -22,13 +22,16 @@
 }
 
 .big-card__title h1{
-  margin-left: 10px;
-  margin-top: 10px;
-  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 40px;
 }
 
-.big-card__description > p{
-  margin-left: 10px;
-  margin-top: 10px;
+.big-card__description {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.big-card__description > p > a{
   color: gray;
 }
