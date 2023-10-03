@@ -1,6 +1,6 @@
 header {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   margin-top: 15px;
   font-size: 20px;
 }

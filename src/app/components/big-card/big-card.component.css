@@ -8,8 +8,8 @@
   justify-content: flex-start;
 }
 
-.big-card__photo{
-  border-radius: 30px;
+.big-card__photo > img{
+  border-radius: 5px;
 }
 
 .big-card__text{

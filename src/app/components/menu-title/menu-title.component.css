@@ -4,7 +4,8 @@
 
 .container__menu-title > h1{
   font-size: 160px;
+  margin-left: 330px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
